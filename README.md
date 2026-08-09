@@ -74,7 +74,7 @@ Tech Stack
 
 Screenshots
 
-Add your screenshots to an images folder, then replace the example paths below.
+Add your screenshots to an Images folder, then replace the example paths below.
 
 Automation Workflow
 
